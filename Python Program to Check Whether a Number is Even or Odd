@@ -11,7 +11,7 @@ print("Even") if num%2 == 0 else print("Odd")
 
 ---- Using Bitwise Operator -----
 def isEven(num):
-  return not num&1
+  return num%2==0
 
 if __name__ == "__main__":
   num = int(input())
