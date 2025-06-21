@@ -1,10 +1,26 @@
+--- Using Brute Force ----
 num = int(input("Enter a Number:")) 
 if num % 2 == 0: 
   print("Given number is Even") 
 else: 
   print("Given number is Odd")
 
-output:
+---- Using Ternary Operator -----
+num = int(input())
+print("Even") if num%2 == 0 else print("Odd")
+
+---- Using Bitwise Operator -----
+def isEven(num):
+  return not num&1
+
+if __name__ == "__main__":
+  num = int(input())
+  if isEven(num):
+    print('Even')
+  else:
+    print('Odd')
+
+---- output: ------
 Enter a Number:2
 Given number is Even
 Enter a Number:3
