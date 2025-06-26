@@ -12,6 +12,6 @@ else:
 
 ---- Output ----
 13
-Prime
+:= Prime
 15
-Not Prime
+:= Not Prime
