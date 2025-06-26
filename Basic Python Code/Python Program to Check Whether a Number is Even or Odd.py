@@ -9,7 +9,7 @@ else:
 num = int(input())
 print("Even") if num%2 == 0 else print("Odd")
 
----- Using Bitwise Operator -----
+---- Using Bitwise Operator ----
 def isEven(num):
   return num%2==0
 
