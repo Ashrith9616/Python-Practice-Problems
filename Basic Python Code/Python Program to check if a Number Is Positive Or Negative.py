@@ -7,7 +7,7 @@ elif num < 0:
 else:
     print('Zero')
 
----- USING Nested if-else Statements ---
+---- USING Nested if-else Statements ----
 num = int(input())
 if num>=0:
     if num==0:
