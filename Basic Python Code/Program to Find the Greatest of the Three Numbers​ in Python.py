@@ -24,7 +24,7 @@ elif num2 >= num1:
     else :
         print(num3)
 
-=---- Output ----
+---- Output ----
 34
 45
 12
