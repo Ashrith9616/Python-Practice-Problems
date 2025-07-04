@@ -11,7 +11,7 @@ if num == a:
 else:
     print("not a perfect square")
 
----- Output ----
+----- Output ----
 
 Enter a number: 25
 := perfect square
