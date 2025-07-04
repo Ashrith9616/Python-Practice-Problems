@@ -20,7 +20,7 @@ if __name__ == "__main__":
   else:
     print('Odd')
 
----- Output: -----
+---- Output: ----
 Enter a Number:2
 Given number is Even
 Enter a Number:3
