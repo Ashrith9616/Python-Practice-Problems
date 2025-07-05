@@ -10,7 +10,7 @@ elif num2 >= num1 and num2 >= num3:
 else:
   print(num3)
 
-----  Using Nested if-else Statements ----
+---- Using Nested if-else Statements ----
 num1 = int(input())
 num2 = int(input())
 num3 = int(input())
