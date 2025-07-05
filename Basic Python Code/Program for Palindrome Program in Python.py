@@ -11,6 +11,6 @@ if num == reverse:
 else:
   print("Not Palindrome")
 
----- Output ----
+---- Output -----
 1221
 := 1221
