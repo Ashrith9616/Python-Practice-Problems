@@ -9,7 +9,7 @@ for i in range(1, min(num1, num2)):
         hcf = i
 print("Hcf of", num1, "and", num2, "is", hcf)
 
----- Output ----
+---- Output -----
 Enter the Number: 4
 Enter the Number: 4
 := Hcf of 4 and 4 is 2
