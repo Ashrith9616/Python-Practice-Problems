@@ -1,4 +1,4 @@
----- Using Python Operator ----
+---- Using Python Operator -----
 
 num = 3
 power = 2
