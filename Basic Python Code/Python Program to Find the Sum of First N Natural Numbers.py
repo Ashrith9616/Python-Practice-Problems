@@ -5,10 +5,6 @@ for i in range(num+1):
   sum+=i
 print(sum)
 
------Using Formula for the Sum of Nth Term----
-num = int(input())
-print(int(num*(num+1)/2))
-
 ---- Using Recursion ----
 def getSum(num):
   if num == 1:
