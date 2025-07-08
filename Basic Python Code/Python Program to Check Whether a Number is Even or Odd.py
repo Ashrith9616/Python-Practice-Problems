@@ -5,7 +5,7 @@ if num % 2 == 0:
 else: 
   print("Given number is Odd")
 
----- Using Ternary Operator -----
+---- Using Ternary Operator ----
 num = int(input())
 print("Even") if num%2 == 0 else print("Odd")
 
