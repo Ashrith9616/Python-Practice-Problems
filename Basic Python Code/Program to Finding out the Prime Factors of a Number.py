@@ -1,4 +1,4 @@
----- Using while loop ----
+---- Using while loop -----
 
 n=int(input())
 l=[]
