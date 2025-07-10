@@ -7,6 +7,6 @@ for i in range(1,num+1):
         factor.append(i)
 print(factor)
 
----- Output: -----
+---- Output: ----
 15
 :=[1, 3, 5, 15]
