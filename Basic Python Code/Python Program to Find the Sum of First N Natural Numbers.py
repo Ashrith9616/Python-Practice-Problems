@@ -1,4 +1,4 @@
- ---- Using for Loop ----
+---- Using for Loop ----
 num = int(input())
 sum = 0
 for i in range(num+1):
