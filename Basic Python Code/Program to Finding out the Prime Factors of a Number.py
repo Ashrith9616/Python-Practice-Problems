@@ -1,4 +1,4 @@
----- Using while loop -----
+---- Using while loop ----
 
 n=int(input())
 l=[]
@@ -9,5 +9,6 @@ for i in range(2,n):
 print(l)
 
 ---- Output ----
+
 30
 :=[2, 3, 5]
