@@ -21,7 +21,7 @@ else:
 num = int(input())
 print("Positive" if num>=0 else "Negative")
 
----output: -----
+---- Output: ----
 8 
 positive
 -9
