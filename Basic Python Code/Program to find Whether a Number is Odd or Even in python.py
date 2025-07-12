@@ -1,4 +1,4 @@
---- Using Brute Force ----
+---- Using Brute Force ----
 num = int(input("Enter a Number:")) 
 if num % 2 == 0: 
   print("Given number is Even") 
@@ -20,7 +20,7 @@ if __name__ == "__main__":
   else:
     print('Odd')
 
----- Output: ----
+---- Output ----
 Enter a Number:2
 Given number is Even
 Enter a Number:3
