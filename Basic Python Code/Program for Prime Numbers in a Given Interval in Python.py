@@ -22,7 +22,7 @@ for i in range(low, high + 1):
         
 print(primes)
 
----- Output ----
+---- Output -----
 
 2
 10
