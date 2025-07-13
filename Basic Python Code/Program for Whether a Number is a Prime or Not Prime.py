@@ -1,4 +1,5 @@
----- Using Simple iterative solution ----
+---- Using Simple iterative solution -----
+
 num = int(input())
 flag = 0
 for i in range(2,num):
