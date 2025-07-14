@@ -12,7 +12,7 @@ if sum==number:
 else:
   print("Not Armstrong")
 
----- Output -----
+---- Output ----
 
 370
 :=Armstrong
