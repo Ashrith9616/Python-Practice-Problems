@@ -17,7 +17,7 @@ if num>=0:
 else:
     print("Negative")
 
----- USING TERNARY OPERATORS ----
+---- USING TERNARY OPERATORS -----
 num = int(input())
 print("Positive" if num>=0 else "Negative")
 
