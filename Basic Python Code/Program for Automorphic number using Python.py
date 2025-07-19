@@ -11,7 +11,7 @@ if b.endswith(a):
 else:
     print("It's not an Automorphic Number")
 
----- Output -----
+---- Output ----
 76
 := It's an Automorphic Number
 50
