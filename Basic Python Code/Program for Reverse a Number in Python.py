@@ -1,4 +1,4 @@
------ Using Simple Iteration ----
+---- Using Simple Iteration ----
 num = int(input())
 temp = num
 reverse = 0
