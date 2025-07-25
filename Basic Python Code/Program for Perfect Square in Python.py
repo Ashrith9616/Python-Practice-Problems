@@ -1,4 +1,4 @@
----- Using Simple iteration ----
+---- Using Simple iteration -----
 
 import math
 num = int(input("Enter a number: "))
