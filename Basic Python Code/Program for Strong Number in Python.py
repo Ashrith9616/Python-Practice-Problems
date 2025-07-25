@@ -1,4 +1,4 @@
------ Using Loop ----
+---- Using Loop ----
 
 import math
 num = int(input("Enter a number: "))
