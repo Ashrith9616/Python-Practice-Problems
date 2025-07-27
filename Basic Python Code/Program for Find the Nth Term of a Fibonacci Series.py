@@ -1,4 +1,4 @@
----- Using Recursion ----
+----- Using Recursion ----
 def fib(n):
 	if n < 2:
 		return n
