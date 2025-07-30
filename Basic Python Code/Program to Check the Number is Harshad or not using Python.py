@@ -9,7 +9,7 @@ if int(N)%sum==0:
 else:
     print("Not a Harshad Number")
 
----- Output -----
+---- Output ----
 Enter a number:18
 := Harshad number
 
