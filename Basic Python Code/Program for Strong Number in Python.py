@@ -15,7 +15,7 @@ if sum == num:
 else:
     print(num, "is not a strong number")
 
----- Output ----
+---- Output -----
 Enter a number: 15
 := 15 is not a strong number
 Enter a number: 145
