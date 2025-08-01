@@ -1,4 +1,4 @@
----- Using Range until Number ----
+----- Using Range until Number ----
 
 n = int(input("Enter a number: "))
 sum = 1 
