@@ -1,4 +1,4 @@
------ Using inner loop Range as [2, number-1] ----
+----- Using inner loop Range as [2, number-1] -----
 low = int(input())
 high = int(input())
 primes = []
