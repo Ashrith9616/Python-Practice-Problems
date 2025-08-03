@@ -1,4 +1,4 @@
------ Using For Loop Iteration between [1, num] ----
+---- Using For Loop Iteration between [1, num] ----
 
 n = int(input())
 sum = 0
