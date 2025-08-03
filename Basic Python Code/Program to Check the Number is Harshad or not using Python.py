@@ -1,4 +1,4 @@
-----  Using simple Iteration ----
+----- Using simple Iteration ----
 
 N=input(“Enter a number:”)
 sum=0
