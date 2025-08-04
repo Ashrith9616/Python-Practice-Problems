@@ -1,4 +1,4 @@
----- Using math librsry ----
+---- Using math librsry -----
 
 import math
 a = int(input())
