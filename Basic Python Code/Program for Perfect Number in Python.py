@@ -12,7 +12,7 @@ if sum == n:
 else:
     print("The number is not a Perfect number")
 
----- Output -----
+---- Output ----
 28
 := The number is a Perfect number
 10
