@@ -9,6 +9,6 @@ while num > 0:
 
 print(reverse)
 
----- Output -----
+---- Output ----
 12345
 := 54321
