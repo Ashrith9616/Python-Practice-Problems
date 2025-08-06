@@ -1,4 +1,4 @@
----- Using Simple Iteration ----
+----- Using Simple Iteration ----
 num = 1221
 temp = num
 reverse = 0
