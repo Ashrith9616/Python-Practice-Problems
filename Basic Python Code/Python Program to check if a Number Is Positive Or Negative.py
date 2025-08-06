@@ -1,4 +1,4 @@
----- USING BRUTE FORCE ----
+----- USING BRUTE FORCE ----
 num = int(input())
 if num > 0:
     print('Positive')
