@@ -1,4 +1,4 @@
------  Using endswith() method ----
+----  Using endswith() method ----
 
 num = int(input())
 a = str(num)
