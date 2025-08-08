@@ -1,4 +1,4 @@
------ Using Iteration ----
+----- Using Iteration -----
 number = int(input())
 num = number
 digit, sum = 0, 0
