@@ -1,4 +1,4 @@
------ Factorial Using for Loop ----
+---- Factorial Using for Loop ----
 num = int(input())
 factorial = 1
 
