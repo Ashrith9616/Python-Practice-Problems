@@ -1,4 +1,4 @@
----- Using (1,num+1) as Range ----
+---- Using (1,num+1) as Range -----
 
 num=int(input())
 factor=[]
