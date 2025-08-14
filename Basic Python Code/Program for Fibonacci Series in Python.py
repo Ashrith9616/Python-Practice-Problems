@@ -1,4 +1,4 @@
------ Using Simple Iteration ----
+---- Using Simple Iteration ----
 num = int(input())
 n1, n2 = 0, 1
 print("Fibonacci Series:", n1, n2, end=" ")
