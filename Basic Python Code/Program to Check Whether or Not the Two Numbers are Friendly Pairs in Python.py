@@ -16,7 +16,7 @@ if __name__ == "__main__":
   else:
     print("Not a Friendly Pair")
 
----- Output ----
+----- Output ----
 Enter a number1: 224
 Enter a number2: 280
 Friendly pair
