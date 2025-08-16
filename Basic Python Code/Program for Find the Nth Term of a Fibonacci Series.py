@@ -9,6 +9,6 @@ n = int(input())
 
 print(fib(n-1))
 
----- Output ----
+---- Output -----
 10
 := 34
