@@ -12,7 +12,7 @@ if(sum>n):
 else:
   print(n,'is not Abundant Number')
 
----- Output ----
+----- Output ----
 Enter a number: 12
 := 12 is Abundant Number
 
