@@ -8,7 +8,7 @@ for i in range(2,n):
         n=n//i
 print(l)
 
----- Output ----
+---- Output -----
 
 30
 :=[2, 3, 5]
