@@ -5,7 +5,7 @@ a = int(input())
 b = int(input())
 print(math.lcm(a , b))
 
----- Output ----
+---- Output -----
 12
 14
 := 84
