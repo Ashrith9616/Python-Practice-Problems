@@ -1,4 +1,4 @@
----- Method 1 ----
+---- Method 1 -----
 low = int(input())
 high = int(input())
 
