@@ -1,4 +1,4 @@
----- Using the Range until Number ---- 
+----- Using the Range until Number ---- 
 
 def printDivisors(n, factors) :
     i = 1
