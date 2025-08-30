@@ -15,6 +15,6 @@ num = int(input())
 print(getSum(num))
 
 
----- OUTPUT -----
+---- OUTPUT ----
 8
 36
